@@ -1,7 +1,7 @@
 
   .auth-container {
-    margin-top: 35vh;
-    margin-left: 35vw;
+    margin: auto;
+    margin-top: 200px;
     width: 100%;
     max-width: 420px;
     padding: 0 20px;
