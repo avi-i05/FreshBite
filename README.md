@@ -2,7 +2,7 @@
 
 A modern, responsive food delivery landing page built with React and Vite. FreshBite connects customers with their favorite restaurants, offering a seamless food ordering experience with fast delivery.
 
-![FreshBite Preview](/public/hero.png)
+![FreshBite Preview](/public/Hero.png)
 
 ## ✨ Features
 
